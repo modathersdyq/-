@@ -18,14 +18,14 @@ This game relies on the motion sensor in the phone. The player shakes the phone 
 5. Press the "Start Game" button and shake the phone.
 
 
-## Example of Use
+## usage Example 
 
 Press the "Start" button
 Time: 5 seconds
 Number of shakes: 20
 Congratulations! You achieved a good score.
 
-## Contributors
+## Contributors credit
 
 Mudather Siddiq Mohamed Ahmed 
 
